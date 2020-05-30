@@ -1,6 +1,6 @@
 # Site settings
 title: 记录学习与生活
-SEOTitle: 朝阳的博客 | BY Blog
+SEOTitle: 朝阳的博客 | Log
 header-img: img/post-bg-desk.jpg
 email: 2267674991@qq.com
 description: "Every failure is leading towards success."
@@ -12,7 +12,7 @@ github_repo: "https://github.com/GuiZhaoyang/GuiZhaoyang.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
