@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      ReactiveCocoa 基础
-subtitle:   函数式编程框架 ReactiveCocoa 基础入门
+title:      深度学习
+subtitle:   人工智能
 date:       2020-12-26
 author:     GuiZhaoyang
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - iOS
-    - ReactiveCocoa
-    - 函数式编程
+    - AI
+    - 深度学习
+    - CV
     - 开源框架
 ---
 
