@@ -5,7 +5,7 @@ subtitle:   图像检索
 date:       2020-5-31
 author:     Black
 header-img: img/post-bg-ios9-web.jpg
-catalog: 	 true
+catalog: true
 tags:
     - 计算机视觉
     - 零样本检索
