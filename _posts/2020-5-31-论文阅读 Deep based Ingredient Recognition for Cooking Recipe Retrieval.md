@@ -1,6 +1,6 @@
-﻿---
+---
 layout:     post
-title:      论文阅读
+title:      论文阅读 Deep-based Ingredient Recognition for Cooking Recipe Retrieval
 subtitle:   图像检索
 date:       2020-5-31
 author:     Black
