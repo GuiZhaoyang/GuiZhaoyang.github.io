@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      论文阅读
+title:      论文阅读 Action recognition for human marionette interaction
 subtitle:   人体动作识别
 date:       2020-3-26
-author:     BY
+author:     Black
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
